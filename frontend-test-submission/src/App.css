@@ -1,0 +1,36 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.heading {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.error {
+  margin-top: 20px;
+  color: red;
+  font-size: 16px;
+}
